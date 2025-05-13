@@ -1,0 +1,26 @@
+.background{
+    background-image: url("https://framerusercontent.com/images/Zl6CMHUMkEj0MkxZ6AR67UUWo.png?scale-down-to=2048");
+    height:100vh;
+    width:100vw;
+    background-size: cover;
+}
+
+
+.userbackground{
+    background-image: url("https://t4.ftcdn.net/jpg/06/91/05/19/360_F_691051962_GFhQPOAXABmf7l706q89b2PFh6FnB1kI.jpg");
+    height:100vh;
+    width:100vw;
+    background-size: cover;
+}
+
+.main{
+    margin:0%;
+    border:0;
+}
+
+.backimage {
+    background-image: url("https://img.freepik.com/free-psd/cyber-monday-sale-element-isolated_23-2151041954.jpg?semt=ais_hybrid&w=740");
+    height:100vh;
+    width:100vw;
+    background-size: cover;
+}
